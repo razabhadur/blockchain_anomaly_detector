@@ -27,7 +27,7 @@ The Blockchain Anomaly Detector is a Python-based tool designed to detect unusua
 Run the script to start monitoring the Ethereum blockchain:
 ```bash
 python blockchain_anomaly_detector.py
-"""
+```
 The script will automatically fetch the latest block, analyze transactions, and detect any anomalies. If anomalies are found, an email alert will be sent with details of the suspicious transactions.
 
 Why This Tool?
